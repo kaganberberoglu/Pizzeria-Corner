@@ -1,0 +1,12 @@
+@media screen and (max-width: 1024px) {
+    .sweet-alert {
+        font-size: 10px !important;
+        background: rgb(254, 243, 199) !important
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sweet-alert {
+        background: rgb(254, 243, 199) !important
+    }
+}
