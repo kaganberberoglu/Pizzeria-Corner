@@ -152,7 +152,7 @@ const PizzaPage = (props) => {
                                 {pizza.map((item) => {
                                     return (
                                         <label
-                                            className="bg-amber-100 mr-2 px-5 py-3 rounded-lg drop-shadow-xl text-stone-800 flex flex-col justify-center items-center hover:bg-amber-200 cursor-pointer xl:text-sm lg:text-sm text-xs"
+                                            className="bg-amber-100 mr-1 px-3 py-3 rounded-lg drop-shadow-xl text-stone-800 flex flex-col justify-center items-center hover:bg-amber-200 cursor-pointer xl:text-sm lg:text-sm text-xs"
                                             htmlFor={item.id}
                                             key={item.id}
                                         >
