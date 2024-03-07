@@ -429,7 +429,7 @@ const PizzaPage = (props) => {
                                             Email
                                         </label>
                                         <input
-                                            className="text-stone-800 rounded ml-1 pl-1 bg-amber-100 py-1 xl:text-sm lg:text-sm text-xs"
+                                            className="text-stone-800 w-24 rounded ml-1 pl-1 bg-amber-100 py-1 xl:text-sm lg:text-sm text-xs"
                                             type="email"
                                             placeholder="_"
                                             id="emailAddress"
